@@ -1,32 +1,27 @@
-The Cult of Done Manifesto
-Introduction:
-Welcome to The Cult of Done Manifesto. This manifesto offers a set of guiding principles to help you stay motivated and productive in your creative endeavors. It encourages a mindset that prioritizes action and completion over perfection.
+# The Cult of Done Manifesto
 
-Manifesto
-Three States of Being: There are three states of being: Not knowing, action, and completion.
+1. There are three states of being. Not knowing, action, and completion.
 
-Everything is a Draft: Accept that everything you create is a draft. Embrace imperfection; it's essential for progress.
+2. Accept that everything is a draft. It helps to get it done.
 
-No Editing Stage: Skip the overthinking and perfectionism. There's no separate editing stage—just keep moving forward.
+3. There is no editing stage.
 
-Embrace Uncertainty: Pretending to know what you're doing is almost as good as actually knowing what you're doing. So, accept that you know what you're doing, even if you don't, and get started.
+4. Pretending you know what you're doing is almost the same as knowing what you are doing, so just accept that you know what you're doing even if you don't and do it.
 
-Banish Procrastination: Don't let ideas linger. If you wait more than a week to act on an idea, it's time to let it go.
+5. Banish procrastination. If you wait more than a week to get an idea done, abandon it.
 
-Focus on Completion: The goal is not just to finish but to create a springboard for more ideas and projects.
+6. The point of being done is not to finish but to get other things done.
 
-Dispose of Perfection: Perfection can be paralyzing. Don't aim for it; focus on getting things done.
+7. Once you're done, you can throw it away.
 
-Embrace Imperfection: Laugh at perfection. It's boring and keeps you from getting things done.
+8. Laugh at perfection. It's boring and keeps you from being done.
 
-Get Your Hands Dirty: People who take action are the ones who are right. Dive in, even if it means getting your hands dirty.
+9. People without dirty hands are wrong. Doing something makes you right.
 
-Failure and Mistakes Are Progress: Failure and mistakes are not obstacles but stepping stones. They count as "done" in the journey of learning and creating.
+10. Failure counts as done. So do mistakes.
 
-Destruction as Creation: Sometimes, deconstruction and experimentation are forms of progress.
+11. Destruction is a variant of done.
 
-Share Your Ideas: When you have an idea and share it on the internet, consider it a "ghost of done." Sharing can lead to collaboration and further development.
+12. If you have an idea and publish it on the internet, that counts as a ghost of done.
 
-Done Leads to More: Completion of one task or project fuels the motivation to tackle more.
-
-Feel free to use this formatted version of The Cult of Done Manifesto as a README on your GitHub repository or anywhere else you find it helpful. Remember, the key is to take action and keep moving forward!
+13. Done is the engine of more.
