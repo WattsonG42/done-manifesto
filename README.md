@@ -1,5 +1,5 @@
 The Cult of Done Manifesto
-Introduction
+Introduction:
 Welcome to The Cult of Done Manifesto. This manifesto offers a set of guiding principles to help you stay motivated and productive in your creative endeavors. It encourages a mindset that prioritizes action and completion over perfection.
 
 Manifesto
