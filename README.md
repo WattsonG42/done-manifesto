@@ -26,5 +26,5 @@
 
 13. Done is the engine of more.
 
-![Done!](./Done.jpg)
+![Done!](./done.jpg)
 
