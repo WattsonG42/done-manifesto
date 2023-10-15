@@ -26,5 +26,6 @@
 
 13. Done is the engine of more.
 
-![Done!](./done.jpg)
+![Done!](https://github.com/WattsonG42/Done-manifesto/blob/main/done.png)
+
 
